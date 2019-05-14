@@ -1,0 +1,33 @@
+{C:/Users/kjh10/Documents/Embedded Systems/mux_2bit_4x1_beh.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/mux_2bit_4x1_beh.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux_4x1_2bit_beh
+
+Top level modules:
+	Mux_4x1_2bit_beh
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/mux_1bit_4x1_gate.v} {2 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/mux_1bit_4x1_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux_4x1_1bit_gate
+** Warning: C:/Users/kjh10/Documents/Embedded Systems/mux_1bit_4x1_gate.v(18): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	Mux_4x1_1bit_gate
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/mux_2bit_4x1_gate.v} {2 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/mux_2bit_4x1_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux_4x1_2bit_gate
+** Warning: C:/Users/kjh10/Documents/Embedded Systems/mux_2bit_4x1_gate.v(11): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	Mux_4x1_2bit_gate
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/mux_2bit_4x1_TB.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/mux_2bit_4x1_TB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}}

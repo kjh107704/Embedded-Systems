@@ -1,0 +1,36 @@
+{C:/Users/kjh10/Documents/Embedded Systems/And2.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/And2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module And2
+
+Top level modules:
+	And2
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/Inv.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/Inv.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Inv
+
+Top level modules:
+	Inv
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/mux_4bit_2x1_gate.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/mux_4bit_2x1_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux2_4b
+
+Top level modules:
+	Mux2_4b
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/mux_1bit_2x1_gate.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/mux_1bit_2x1_gate.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/Or2.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/Or2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Or2
+
+Top level modules:
+	Or2
+
+} {} {}}
