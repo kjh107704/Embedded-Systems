@@ -15,4 +15,4 @@ module Mux_4x1_1bit_gate(I3,I2,I1,I0,S1,S0,D);
 
     or Or_1(D,N3,N4,N5,N6);
 
-endmodule;
+endmodule
