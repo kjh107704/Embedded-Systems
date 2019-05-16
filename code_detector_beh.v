@@ -75,4 +75,4 @@ module Code_Detector(Start, Red, Green, Blue, Clk, Rst, U);
         endcase
     end
 
-endmodule;
+endmodule
