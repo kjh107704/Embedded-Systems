@@ -137,7 +137,7 @@ Z10 !s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\mux_2bit_4
 R6
 n@mux_4x1_1bit_beh
 vMux_4x1_1bit_gate
-!s110 1557973655
+!s110 1558354050
 !i10b 1
 !s100 ^8?P_[1M[?f[2h2I1d93_2
 Ib:Jk^CnGM=W=Q:5ZbQGz13
@@ -151,7 +151,7 @@ R2
 r1
 !s85 0
 31
-!s108 1557973655.000000
+!s108 1558354050.000000
 !s107 c:\Users\kjh10\Documents\Embedded Systems\mux_1bit_4x1_gate.v|
 !s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\mux_1bit_4x1_gate.v|
 !s101 -O0
@@ -181,7 +181,7 @@ R10
 R6
 n@mux_4x1_2bit_beh
 vMux_4x1_2bit_gate
-!s110 1557973741
+!s110 1558354043
 !i10b 1
 !s100 A`M4K^@X7^F7]GQ]Im;[03
 IDbmWKg0Dk<^ezT2FYlG2c3
@@ -195,7 +195,7 @@ R2
 r1
 !s85 0
 31
-!s108 1557973740.000000
+!s108 1558354042.000000
 !s107 c:\Users\kjh10\Documents\Embedded Systems\mux_2bit_4x1_gate.v|
 !s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\mux_2bit_4x1_gate.v|
 !s101 -O0
@@ -223,8 +223,30 @@ R3
 !i113 1
 R4
 n@or2
+vShifter_Amount_2
+!s110 1558354253
+!i10b 1
+!s100 2ZdOKP:fC:9kM2UIoHbn_2
+I@ejAie;Vh16RE21_DzZD?2
+R1
+R5
+w1558353621
+8c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v
+Fc:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1558354252.000000
+!s107 c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v|
+!s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v|
+!s101 -O0
+!i113 1
+R6
+n@shifter_@amount_2
 vTestbench
-!s110 1557974125
+!s110 1558355179
 !i10b 1
 !s100 GRYFLKRda]j9QYRgAOb^M0
 IzcENZA0EgNSL;>@U5QU7a3
@@ -238,7 +260,7 @@ R2
 r1
 !s85 0
 31
-!s108 1557974125.000000
+!s108 1558355178.000000
 !s107 c:\Users\kjh10\Documents\Embedded Systems\code_detector_TB.v|
 !s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\code_detector_TB.v|
 !s101 -O0
