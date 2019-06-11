@@ -1,9 +1,37 @@
-{C:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v}
+{C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_4.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter_Amount_4
+
+Top level modules:
+	Shifter_Amount_4
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_8.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter_Amount_8
+
+Top level modules:
+	Shifter_Amount_8
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module Barrel_Shifter
 
 Top level modules:
 	Barrel_Shifter
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_1.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter_Amount_1
+
+Top level modules:
+	Shifter_Amount_1
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_2.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter_Amount_2
+
+Top level modules:
+	Shifter_Amount_2
 
 } {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch4/barrel_shifter_TB.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch4/barrel_shifter_TB.v}
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015

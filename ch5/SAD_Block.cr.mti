@@ -1,0 +1,29 @@
+{C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_TB.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_TB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Testbench
+
+Top level modules:
+	Testbench
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_result.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_result.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Sram_Result
+
+Top level modules:
+	Sram_Result
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_beh.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_beh.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SAD
+
+Top level modules:
+	SAD
+
+} {} {}} {C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_operand.v} {1 {vlog -work work -stats=none {C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_operand.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Sram_Operand
+
+Top level modules:
+	Sram_Operand
+
+} {} {}}

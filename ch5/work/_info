@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/kjh10/Documents/Embedded Systems/ch4
+vSAD
+Z0 !s110 1559239012
+!i10b 1
+!s100 bmB7h0l2TG:10nmz`M:H83
+ImZjBXRjo7]QdGNkkmO]FJ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/kjh10/Documents/Embedded Systems/ch5
+w1559238997
+8C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_beh.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch5/sad_beh.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1559239012.000000
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_beh.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_beh.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@s@a@d
+vSram_Operand
+Z6 !s110 1559239013
+!i10b 1
+!s100 k?E?L>k6n4YQS;z`F[QQ21
+Ihn8ao>8R7hoEk]FX?<ZIV2
+R1
+R2
+w1559236426
+8C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_operand.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch5/sram_operand.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1559239013.000000
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_operand.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_operand.v|
+!s101 -O0
+!i113 1
+R5
+n@sram_@operand
+vSram_Result
+R6
+!i10b 1
+!s100 1BNJNFHiML@dG8P8oRU:53
+ISXj0;ZifT73H]X^km^czF2
+R1
+R2
+w1559236495
+8C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_result.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch5/sram_result.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_result.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch5/sram_result.v|
+!s101 -O0
+!i113 1
+R5
+n@sram_@result
+vTestbench
+R0
+!i10b 1
+!s100 IS1JEVL;EU5m@T0k`B`UE3
+Ih<OJ8aMhMO3nRKkG>kGOQ1
+R1
+R2
+w1559237280
+8C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_TB.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch5/sad_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch5/sad_TB.v|
+!s101 -O0
+!i113 1
+R5
+n@testbench

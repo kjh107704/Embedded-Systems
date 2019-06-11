@@ -10,12 +10,13 @@ module Shifter_Amount_8(SH_DIR,SH_AMT,D_IN,D_OUT);
             begin
                 if(SH_DIR==1'b1)    //shift-right
                     begin
-                        D_OUT <= D_IN/256;
+                        D_OUT[23:0] <= D_IN[31:8];
                         D_OUT[31:24] <= {8{D_IN[31]}};
                     end
                 else                //shift-left
                     begin
-                        D_OUT <= D_IN*256;
+                        D_OUT[31:8]<=D_IN[23:0];
+                        D_OUT[7:0]<={8{1'b0}};
                     end
             end
             else

@@ -10,12 +10,13 @@ module Shifter_Amount_16(SH_DIR,SH_AMT,D_IN,D_OUT);
             begin
                 if(SH_DIR==1'b1)    //shift-right
                     begin
-                        D_OUT <= D_IN/65536;
+                        D_OUT[15:0] <= D_IN[31:16];
                         D_OUT[31:16] <= {16{D_IN[31]}};
                     end
                 else                //shift-left
                     begin
-                        D_OUT <= D_IN*65536;
+                        D_OUT[31:16]<=D_IN[15:0];
+                        D_OUT[15:0]<={16{1'b0}};
                     end
             end
             else

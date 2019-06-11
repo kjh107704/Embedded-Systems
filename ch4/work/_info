@@ -9,156 +9,156 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vBarrel_Shifter
-!s110 1558363524
+Z0 !s110 1558598010
 !i10b 1
 !s100 e629zg[Sc`SUiWBkfbS2@0
-I9Y9TM9Oi;@5[D8k36PQQD2
-Z0 VDg1SIo80bB@j0V0VzS_@n1
-Z1 dc:/Users/kjh10/Documents/Embedded Systems/ch4
+IBAWQXG5bHlk8QfYRHgQ7_3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/kjh10/Documents/Embedded Systems/ch4
 w1558356434
-8c:\Users\kjh10\Documents\Embedded Systems\ch4\Barrel_Shifter_32bit.v
-Fc:\Users\kjh10\Documents\Embedded Systems\ch4\Barrel_Shifter_32bit.v
+8C:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v
 L0 2
-Z2 OP;L;10.4a;61
+Z3 OP;L;10.4a;61
 r1
 !s85 0
 31
-!s108 1558363524.000000
-!s107 c:\Users\kjh10\Documents\Embedded Systems\ch4\Barrel_Shifter_32bit.v|
-!s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\ch4\Barrel_Shifter_32bit.v|
+Z4 !s108 1558598010.000000
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch4/Barrel_Shifter_32bit.v|
 !s101 -O0
 !i113 1
-Z3 o-nologo -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
 n@barrel_@shifter
 vShifter_Amount_1
-!s110 1558363867
-!i10b 1
-!s100 enN_5b4Ean;mWf6jFJV_E0
-IgK_fUiFnLCog@]_@znQcU3
 R0
+!i10b 1
+!s100 @@lD9a10K^KK`KkZP15ID2
+I:gT3L>G2jQ[igSCBB8:?m2
 R1
-w1558363867
-8c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_1.v
-Fc:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_1.v
-L0 1
 R2
+w1558597921
+8C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_1.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_1.v
+L0 1
+R3
 r1
 !s85 0
 31
-!s108 1558363867.000000
-!s107 c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_1.v|
-!s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_1.v|
+R4
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_1.v|
 !s101 -O0
 !i113 1
-R3
+R5
 n@shifter_@amount_1
 vShifter_Amount_16
-!s110 1558358975
-!i10b 1
-!s100 _jn1aZ`c1z2I<P;5XTGXH0
-IiB7_g_15Dj7A`8WLCFEiH2
 R0
-dC:/Users/kjh10/Documents/Embedded Systems/ch4
-w1558358965
+!i10b 1
+!s100 Bmk5:B57NT2OHDSK[UWAD2
+IDWFC<A:[A^0imJY]I0kMV0
+R1
+R2
+w1558597994
 8C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_16.v
 FC:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_16.v
 L0 1
-R2
+R3
 r1
 !s85 0
 31
-!s108 1558358975.000000
+R4
 !s107 C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_16.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_16.v|
 !s101 -O0
 !i113 1
-o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+R5
 n@shifter_@amount_16
 vShifter_Amount_2
-!s110 1558363864
-!i10b 1
-!s100 h6i:H3Q[PY1jkL5eUXeT81
-IBJ8eKa26A7Q`1PJKW8fej2
 R0
+!i10b 1
+!s100 NVHi;i76V:4BJ=Rin4XXg0
+IWIPl:B50o<QE[a8DPA<b43
 R1
-w1558363864
-8c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v
-Fc:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v
-L0 1
 R2
+w1558597984
+8C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_2.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_2.v
+L0 1
+R3
 r1
 !s85 0
 31
-!s108 1558363864.000000
-!s107 c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v|
-!s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_2.v|
+R4
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_2.v|
 !s101 -O0
 !i113 1
-R3
+R5
 n@shifter_@amount_2
 vShifter_Amount_4
-!s110 1558363861
+Z6 !s110 1558598011
 !i10b 1
-!s100 5nRM;[mUgWzAolj6<LGeo2
-I5H]zgeGKll4foHmfi=VB01
-R0
+!s100 SROB<d3H_leQ8MAbT73lo0
+Ik0Wf@_:I?_YETbUHDd44^2
 R1
-w1558363861
-8c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_4.v
-Fc:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_4.v
-L0 1
 R2
+w1558597990
+8C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_4.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_4.v
+L0 1
+R3
 r1
 !s85 0
 31
-!s108 1558363861.000000
-!s107 c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_4.v|
-!s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_4.v|
+R4
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_4.v|
 !s101 -O0
 !i113 1
-R3
+R5
 n@shifter_@amount_4
 vShifter_Amount_8
-!s110 1558363857
+R6
 !i10b 1
-!s100 O2dX?9;0WHQ]?c:3^GLGF0
-IP^VNkWMcb2RQAUVFGBE@M2
-R0
+!s100 a35FSfKGhE7hzU]D=Mi9`1
+I6eAgQz[DdhXL3B5K<gW0T1
 R1
-w1558363857
-8c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_8.v
-Fc:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_8.v
-L0 1
 R2
+w1558597992
+8C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_8.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_8.v
+L0 1
+R3
 r1
 !s85 0
 31
-!s108 1558363857.000000
-!s107 c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_8.v|
-!s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\ch4\Shifter_32bit_Amount_8.v|
+!s108 1558598011.000000
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch4/Shifter_32bit_Amount_8.v|
 !s101 -O0
 !i113 1
-R3
+R5
 n@shifter_@amount_8
 vTestbench
-!s110 1558363516
-!i10b 1
-!s100 UWi>BQA@05P2glfTji]hk2
-I4F`ZgBL9T?f>mDNZm4Vhc3
 R0
+!i10b 1
+!s100 6Xi^SDTn8BN>QMhF1oH`[0
+IK[J@F8KZE=a1DDSGW<BQU3
 R1
-w1558358041
-8c:\Users\kjh10\Documents\Embedded Systems\ch4\barrel_shifter_TB.v
-Fc:\Users\kjh10\Documents\Embedded Systems\ch4\barrel_shifter_TB.v
-L0 3
 R2
+w1558579547
+8C:/Users/kjh10/Documents/Embedded Systems/ch4/barrel_shifter_TB.v
+FC:/Users/kjh10/Documents/Embedded Systems/ch4/barrel_shifter_TB.v
+L0 3
+R3
 r1
 !s85 0
 31
-!s108 1558363516.000000
-!s107 c:\Users\kjh10\Documents\Embedded Systems\ch4\barrel_shifter_TB.v|
-!s90 -nologo|-work|work|c:\Users\kjh10\Documents\Embedded Systems\ch4\barrel_shifter_TB.v|
+R4
+!s107 C:/Users/kjh10/Documents/Embedded Systems/ch4/barrel_shifter_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/kjh10/Documents/Embedded Systems/ch4/barrel_shifter_TB.v|
 !s101 -O0
 !i113 1
-R3
+R5
 n@testbench
